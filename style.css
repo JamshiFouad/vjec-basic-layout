@@ -33,3 +33,30 @@ padding-top: 1%;
 margin-left: 2%;
 color: red;
 }
+
+.content {
+height: 65vh;
+width: 100%;
+background-color: red;
+}
+
+.left-content {
+height: 100%;
+width: 30%;
+background: rgb(246, 230, 233);
+float: left;
+}
+
+.main-content {
+height: 100%;
+width: 50%;
+background: rgb(226, 232, 232);
+float: left;
+}
+
+.right-content {
+height: 100%;
+width: 20%;
+background: rgb(243, 242, 227);
+float: left;
+}
